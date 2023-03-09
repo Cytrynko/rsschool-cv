@@ -49,3 +49,16 @@ function isPangram(string){
 * [My Portfolio Website](https://github.com/Cytrynko/Maryia-Kuranovich-Portfolio-Website) *(HTML, CSS, JS)*
 
 *****
+
+## Education
+* **[HTML & CSS Crash Course](https://scrimba.com/learn/introhtmlcss)** contains 31 interactive screencasts for learning how to build very first web pages with four hour course on HTML and CSS *(completed)*
+* **[The Frontend Developer Career Path](https://scrimba.com/learn/frontend)** contains 13 modules. All modules are filled with interactive coding challenges for learning HTML, CSS, JavaScript, React, UI design, career strategy, and more *(in progress)*
+* **[Learn React](https://scrimba.com/learn/learnreact)** contains 153 interactive screencasts spread across 4 modules for learning the basics of modern React *(completed)*
+
+*****
+
+## Languages
+* English - **B1**
+* Polish - **B2**
+* Russian - **C2**
+* Ukrainian - **A2**
